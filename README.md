@@ -1,2 +1,2 @@
 # FRONTIER-GATE-BOOST-PLUS
-# Masih di inisialisasi
+# Masih di inisialisasih
