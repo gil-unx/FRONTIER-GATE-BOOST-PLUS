@@ -2,7 +2,7 @@
 # Masih di inisialisasi
 For now I focus on plain text first.
 
-#How to use:
+How to use:
  
 1.Download source as zip and extract to working directory,
  
