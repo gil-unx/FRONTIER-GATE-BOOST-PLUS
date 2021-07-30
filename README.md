@@ -26,4 +26,4 @@ bisa diedit via FRONTIERGUI.exe atau text editor biasa Notepad++ etc
 
 
 #Tutor video:
-
+https://youtu.be/wExN-Jm3ZEI
