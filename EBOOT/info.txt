@@ -1,5 +1,6 @@
 
 eboot mod:
+Limit text
 
 original op code:
 	0x088BFD44 	move	s0,a1 
