@@ -22,3 +22,8 @@ ada 2 jenis file:
 2. TXT/*.txt mengandung plaintext yang akan di translate
 bisa diedit via FRONTIERGUI.exe atau text editor biasa Notepad++ etc
 3. Tombol Save All bisa digunakan jika file *.txt sudah lumayan banyak yang diedit.
+
+
+
+#Tutor video:
+
