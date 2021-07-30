@@ -1,1 +1,11 @@
-eboot
+
+eboot mod:
+
+original op code:
+	0x088BFD44 	move	s0,a1 
+	
+modified op code:
+	0x088BFD44	addiu	s0,a1,0x64 	
+	
+this add extra 100 char
+
