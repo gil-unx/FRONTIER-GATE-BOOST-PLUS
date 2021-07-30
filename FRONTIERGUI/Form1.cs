@@ -84,7 +84,7 @@ namespace FRONTIERGUI
         }
         private void InitListText()
         {
-            for(int index =1;index < this.sp40.TOTALSTRING; index++)
+            for(int index =1;index <= this.sp40.TOTALSTRING; index++)
             {
                 ListViewItem row = new ListViewItem(index.ToString());
                 ListViewItem.ListViewSubItem stringText = new ListViewItem.ListViewSubItem(row, this.sp40.MODIFIED_TEXT[index].Replace("\n", "\\n"));
