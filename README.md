@@ -1,3 +1,6 @@
+#Tutor video:
+https://youtu.be/wExN-Jm3ZEI
+
 #Cara pake:
 
 1. Download source dan extract ke working directory.
@@ -25,5 +28,4 @@ bisa diedit via FRONTIERGUI.exe atau text editor biasa Notepad++ etc
 
 
 
-#Tutor video:
-https://youtu.be/wExN-Jm3ZEI
+
