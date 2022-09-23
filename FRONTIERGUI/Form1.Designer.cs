@@ -55,6 +55,8 @@ namespace FRONTIERGUI
             // 
             // listText
             // 
+            this.listText.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left)));
             this.listText.FullRowSelect = true;
             this.listText.GridLines = true;
             this.listText.HeaderStyle = System.Windows.Forms.ColumnHeaderStyle.Nonclickable;
@@ -80,6 +82,7 @@ namespace FRONTIERGUI
             // 
             // originalTextBox
             // 
+            this.originalTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.originalTextBox.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.originalTextBox.Location = new System.Drawing.Point(247, 409);
             this.originalTextBox.Multiline = true;
@@ -91,6 +94,7 @@ namespace FRONTIERGUI
             // 
             // modifiedImgBox
             // 
+            this.modifiedImgBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.modifiedImgBox.BackColor = System.Drawing.SystemColors.WindowFrame;
             this.modifiedImgBox.Location = new System.Drawing.Point(878, 93);
             this.modifiedImgBox.Name = "modifiedImgBox";
@@ -101,6 +105,7 @@ namespace FRONTIERGUI
             // 
             // originalImgBox
             // 
+            this.originalImgBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.originalImgBox.BackColor = System.Drawing.SystemColors.WindowFrame;
             this.originalImgBox.Location = new System.Drawing.Point(878, 409);
             this.originalImgBox.Name = "originalImgBox";
@@ -110,6 +115,8 @@ namespace FRONTIERGUI
             // 
             // button1
             // 
+            this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button1.Location = new System.Drawing.Point(797, 8);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 36);
@@ -120,6 +127,8 @@ namespace FRONTIERGUI
             // 
             // fileNameBox
             // 
+            this.fileNameBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.fileNameBox.Location = new System.Drawing.Point(247, 8);
             this.fileNameBox.Multiline = true;
             this.fileNameBox.Name = "fileNameBox";
@@ -129,6 +138,7 @@ namespace FRONTIERGUI
             // 
             // button2
             // 
+            this.button2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.button2.Location = new System.Drawing.Point(878, 8);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(140, 36);
@@ -139,6 +149,8 @@ namespace FRONTIERGUI
             // 
             // button3
             // 
+            this.button3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button3.Location = new System.Drawing.Point(1493, 12);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(83, 35);
@@ -149,6 +161,8 @@ namespace FRONTIERGUI
             // 
             // button4
             // 
+            this.button4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button4.Location = new System.Drawing.Point(1493, 53);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(83, 34);
@@ -159,6 +173,9 @@ namespace FRONTIERGUI
             // 
             // label1
             // 
+            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(247, 75);
             this.label1.Name = "label1";
@@ -168,6 +185,8 @@ namespace FRONTIERGUI
             // 
             // label2
             // 
+            this.label2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(247, 391);
             this.label2.Name = "label2";
@@ -177,6 +196,8 @@ namespace FRONTIERGUI
             // 
             // progressBar1
             // 
+            this.progressBar1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.progressBar1.Location = new System.Drawing.Point(247, 49);
             this.progressBar1.Name = "progressBar1";
             this.progressBar1.Size = new System.Drawing.Size(625, 16);
@@ -184,6 +205,7 @@ namespace FRONTIERGUI
             // 
             // button5
             // 
+            this.button5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.button5.Location = new System.Drawing.Point(878, 50);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(140, 35);
@@ -196,6 +218,8 @@ namespace FRONTIERGUI
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSize = true;
+            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.ClientSize = new System.Drawing.Size(1588, 716);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.progressBar1);
