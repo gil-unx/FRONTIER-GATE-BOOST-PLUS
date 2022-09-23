@@ -236,7 +236,7 @@ namespace FRONTIERGUI
             this.Controls.Add(this.modifiedTextBox);
             this.Controls.Add(this.listText);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "FRONTIERGUI";
             ((System.ComponentModel.ISupportInitialize)(this.modifiedImgBox)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.originalImgBox)).EndInit();
             this.ResumeLayout(false);

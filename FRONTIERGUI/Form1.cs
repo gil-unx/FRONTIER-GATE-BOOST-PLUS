@@ -657,7 +657,7 @@ namespace FRONTIERGUI
                     break;
                 }
                 uint bVar1 = sc;
-                if (bVar1 < 0x81)
+                if (bVar1 < 0x80)
                 {
                     buffWriter.Write((byte)bVar1);
 
